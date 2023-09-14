@@ -1,0 +1,27 @@
+
+#carrito {
+    padding-right: 30px;  }
+
+  .nav-link {
+    padding-top: 5%;
+    text-decoration: none;
+    color: inherit;   
+  }
+  .nav-link:hover {
+    border-radius: 5px;
+    background-color: #bed1cf;    
+  }
+  .cabeza {
+    background: #e6e2e2e5;
+    position: relative;
+  }
+  .headlogbg {
+    background: rgb(239, 239, 240);
+    background: linear-gradient(90deg, rgba(35, 35, 109, 0.644) 0%, rgba(26,26,26,1) 100%, rgb(233, 239, 240) 100%);
+  } 
+  .navbar-brand{
+    width: 70px;
+    filter: drop-shadow(0 4px 5px white);
+  }
+
+
